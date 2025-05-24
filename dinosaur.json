@@ -15,7 +15,7 @@
     "length_meters": 9.0,
     "weight_tons": 6.0,
     "location_found": "North America",
-    "image_link": "https://commons.wikimedia.org/wiki/File:Triceratops_liveDB.jpg"
+    "image_link": "https://static.wixstatic.com/media/bd5f3b_da91816f74d849149d219bad25d00ec8~mv2.png/v1/fill/w_568,h_404,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bd5f3b_da91816f74d849149d219bad25d00ec8~mv2.png"
   },
   {
     "name": "Velociraptor",
@@ -24,7 +24,7 @@
     "length_meters": 2.0,
     "weight_tons": 0.015,
     "location_found": "Mongolia",
-    "image_link": "https://commons.wikimedia.org/wiki/File:Velociraptor_dinoguy2.jpg"
+    "image_link": "https://i.natgeofe.com/n/5c3c8fb7-b1e4-495b-a943-9f812fbb320f/velociraptor-mongoliensis_2490029.jpg"
   },
   {
     "name": "Stegosaurus",
@@ -33,7 +33,7 @@
     "length_meters": 9.0,
     "weight_tons": 5.0,
     "location_found": "North America",
-    "image_link": "https://commons.wikimedia.org/wiki/File:Stegosaurus_BW.jpg"
+    "image_link": "https://blog.walkingmountains.org/hs-fs/hubfs/WMSC-Stegosaurus-Sketch-AdobeStock_368097868.jpeg?width=3049&name=WMSC-Stegosaurus-Sketch-AdobeStock_368097868.jpeg"
   },
   {
     "name": "Brachiosaurus",
@@ -42,7 +42,7 @@
     "length_meters": 25.0,
     "weight_tons": 56.0,
     "location_found": "North America",
-    "image_link": "https://commons.wikimedia.org/wiki/File:Brachiosaurus-brancai_jconway.jpg"
+    "image_link": "https://cdn.mos.cms.futurecdn.net/eeLrc7ZAoXVBveu4M8BhpS-1200-80.jpg"
   },
   {
     "name": "Ankylosaurus",
@@ -51,7 +51,7 @@
     "length_meters": 6.0,
     "weight_tons": 6.0,
     "location_found": "North America",
-    "image_link": "https://commons.wikimedia.org/wiki/File:Ankylosaurus.jpg"
+    "image_link": "https://generasipeneliti.id/images_news/REF-AHENuqzTS84IDZkGyAWg6NMXv_image.webp"
   },
   {
     "name": "Spinosaurus",
@@ -60,7 +60,7 @@
     "length_meters": 15.0,
     "weight_tons": 7.0,
     "location_found": "North Africa",
-    "image_link": "https://commons.wikimedia.org/wiki/File:Spinosaurus_Old_Representation.jpg"
+    "image_link": "https://cms-cdn.zaonce.net/2021-11/spinosaurus_278414.png"
   },
   {
     "name": "Pachycephalosaurus",
@@ -69,7 +69,7 @@
     "length_meters": 4.5,
     "weight_tons": 0.45,
     "location_found": "North America",
-    "image_link": "https://commons.wikimedia.org/wiki/File:Pachycephalosaurus.jpg"
+    "image_link": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/pachycephalosaurus.jpg"
   },
   {
     "name": "Allosaurus",
@@ -78,7 +78,7 @@
     "length_meters": 12.0,
     "weight_tons": 2.3,
     "location_found": "North America",
-    "image_link": "https://commons.wikimedia.org/wiki/File:Allosaurus.jpg"
+    "image_link": "https://www.nps.gov/dino/learn/nature/images/allosaurus-fragilis_2.jpg"
   },
   {
     "name": "Diplodocus",
@@ -87,6 +87,6 @@
     "length_meters": 27.0,
     "weight_tons": 12.0,
     "location_found": "North America",
-    "image_link": "https://commons.wikimedia.org/wiki/File:Diplodocus_NHM.JPG"
+    "image_link": "https://www.thoughtco.com/thmb/El49RiZ3hQnnmKAxp0ifSOQkaBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-76127782-58da95df5f9b584683613ec2.jpg"
   }
 ]
